@@ -1,6 +1,6 @@
 public class nested_ifelse {
     public static void main(String[] args) {
-        
+    
         int day;
         day=Integer.parseInt(args[0]);
 
