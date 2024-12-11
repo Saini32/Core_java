@@ -1,13 +1,9 @@
-//import java.util.Scanner;
-
 public class nested_ifelse {
     public static void main(String[] args) {
         
         int day;
-        //Scanner sc=new Scannner(System.in);
         day=Integer.parseInt(args[0]);
-      // System.out.println("eneter days of number=");
-      // day=sc.nextInt();
+
         if (day==1) 
         {
             System.out.println("monday");
